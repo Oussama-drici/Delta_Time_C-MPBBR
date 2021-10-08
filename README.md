@@ -4,4 +4,5 @@ research in laboratory by Mr. KHELOUFI Anis, Mr. EL-HASSAR Sidahmed Reda, they
 found that the high infuencable variable in the detection of congestion is Delta time or
 the time between the packets, this Delta time helps us to predict if there is a congestion
 or not, in our amelioration we tried to include this Delta time to detect congestion in the
-path in order to achieve the balance congestion goal.
+path in order to achieve the balance congestion goal, the amelioration is based on the new
+proposed New_Rtt_BBRv1 in TCP.
