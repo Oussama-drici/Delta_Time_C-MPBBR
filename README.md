@@ -1,4 +1,4 @@
-The balance congestion goal is dened by loading the data to the less congested path
+The balance congestion goal is defined by loading the data to the less congested path
 instead the high congested path to minimize delay and the loss of packets, from the ML
 research in laboratory by Mr. KHELOUFI Anis, Mr. EL-HASSAR Sidahmed Reda, they
 found that the high infuencable variable in the detection of congestion is Delta time or
