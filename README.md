@@ -7,6 +7,15 @@ or not, in our amelioration we tried to include this Delta time to detect conges
 path in order to achieve the balance congestion goal, the amelioration is based on the new
 proposed New_Rtt_BBRv1 in TCP.
 
+#Instructions:
+
+How to Run:
+
+Just compile and install is as a module. Change the default Congestion Algorithm to "DT_C-MPBBR"
+
+Above development was based on the MPTCP v0.95.0 deployed in Linux kernel version of v4.19.206 
+
+
 Regards,
 
 Computer Systems Enginner Drici Oussama.
