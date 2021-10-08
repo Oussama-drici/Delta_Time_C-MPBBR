@@ -6,3 +6,9 @@ the time between the packets, this Delta time helps us to predict if there is a 
 or not, in our amelioration we tried to include this Delta time to detect congestion in the
 path in order to achieve the balance congestion goal, the amelioration is based on the new
 proposed New_Rtt_BBRv1 in TCP.
+
+Regards,
+
+Computer Systems Enginner Drici Oussama.
+
+For any information contact me at o.drici@esi-sba.dz
